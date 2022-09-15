@@ -1,4 +1,4 @@
-Requires Java and maven to be installed.
+Requires Java and Maven to be installed.
 
 Compile and run tests at root using "mvn clean install".
 
