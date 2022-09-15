@@ -1,6 +1,0 @@
-rest\service\ResourceController.class
-rest\service\ResourceService.class
-rest\service\exceptions\ResourceNotFoundException.class
-rest\service\response\UpdateResponse.class
-rest\service\SpringBootWebApplication.class
-rest\service\exceptions\ResourceAlreadyExistsException.class
